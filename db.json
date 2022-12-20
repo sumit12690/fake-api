@@ -1,10 +1,12 @@
 {
-"items": [
-    "Dutch",
-    "English",
-    "French",
-    "German",
-    "Italian",
-    "Spanish"
-]
+  "onboarding": {
+    "12345": {
+        "subscriptionID": "234599743",
+        "subscriptionStartDate": "01/19/2023",
+        "offerComponents": [
+            "Umbrella",
+            "SecureX"
+        ],
+        "provisioningContactEmail": "kit@companyfoo.com",
+    }
 }
